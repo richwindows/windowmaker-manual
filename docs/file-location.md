@@ -10,7 +10,7 @@
 
 | Azure Cloud Username | Password |
 |----------------------|----------|
-| user1.RWD02@windowmaker.cloud | WMCloud#123@ |
+| ********** | ********* |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Login Username | Password |
 |----------------|----------|
-| TEST | TEST |
+| ******* | ********* |
 
 ---
 
